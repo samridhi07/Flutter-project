@@ -33,6 +33,9 @@ Open method hierarchy	Control+Shift+H	Command+Shift+H
 Open call hierarchy	Control+Alt+H	Control+Option+H
 //
 
+Flutter Create- Flutter Create is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
