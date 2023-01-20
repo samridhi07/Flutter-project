@@ -34,7 +34,10 @@ Open call hierarchy	Control+Alt+H	Control+Option+H
 //
 
 Flutter Create- Flutter Create is a contest that challenges you to build something interesting, inspiring, and beautiful with Flutter using 5KB or less of Dart code.
-
+Flutter pub get- pub get is shorthand for the pub get packages which is how packages are downloaded in dart projects. Adding the flutter keyword before it makes it so that the command is run by the flutter SDK, which will map it to the sdk's packages get command.
+Flutter doctor- Show information about the installed tooling.
+Flutter run- Runs a flutter program
+Flutter analyze- Analyzes the project’s Dart source code
 
 This project is a starting point for a Flutter application.
 
